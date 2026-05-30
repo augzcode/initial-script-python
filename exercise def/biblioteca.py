@@ -71,6 +71,9 @@ def escolha (n1:int, n2:int, p:str):
 #ex7
 
 def primo (n1: int):
+    '''
+    retorna se é numero primo ou não
+    '''
     for x in range(1, n1**0.5 + 1):
         if n1 % x == 0:
             resultado = print("primo")
