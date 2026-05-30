@@ -1,0 +1,5 @@
+100;manuela; SI; 6.7
+101;patricia; Engenharia de software; 5
+102;amanda; direito; 7
+103;paulo; culinaria; 10
+104;fernanda; psicologia; 3.3
